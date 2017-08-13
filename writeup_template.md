@@ -17,7 +17,7 @@ The goals / steps of this project are the following:
 
 [image1]: ./sign_count.png "Visualization"
 [image2]: ./table1.png
-[image3]: ./tabel2.png
+[image3]: ./table2.png
 [image4]: ./new_images/image1.jpg "Traffic Sign 1"
 [image5]: ./new_images/image2.jpg "Traffic Sign 2"
 [image6]: ./new_images/image3.JPG "Traffic Sign 3"
